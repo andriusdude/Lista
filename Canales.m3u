@@ -1,0 +1,330 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
+
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cuatro.es" tvg-name="Cuatro ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
+
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
+
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="6" tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-country="ES" tvg-language="Spanish"  group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
+
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="7" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
+
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="8" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
+
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="9" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="10" tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
+
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="12" tvg-name="Telemadrid" tvg-id="TeleMadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
+
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="14" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
+
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="15" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8TV Cataluña
+
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
+
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="17" tvg-id="AragonTV.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Aragon%20TV.jpg",Aragón TV
+
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+
+
+#EXTINF:0 tvg-chno="18" tvg-id="RTP Asturias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
+
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+
+
+
+#EXTINF:0 tvg-chno="19" tvg-id="CyL7.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20y%20Leon%20Television.jpg",Castilla y Leon TV
+
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="20" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
+
+http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg",Televisión Rioja
+
+http://teledifusion.tv/rioja/rioja/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="22" tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco
+
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="23" tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
+
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Navarra%20Television.jpg",Navarra Televisión
+
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+
+
+
+#EXTINF:0 tvg-chno="25" tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",A Punt Valencia
+
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
+#EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,7 TV Murcia
+
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="27" tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg",IB3 Baleares
+
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+
+
+#EXTINF:0 tvg-chno="28" tvg-name="TV Canaria" tvg-id="TvCanaria.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,TV Canaria
+
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+
+
+#EXTINF:0 tvg-chno="30" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+
+https://livestartover.atresmedia.com/a3series/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="31" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
+
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+
+
+#EXTINF:0 tvg-chno="32" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
+
+https://pull2b-i.akamaized.net/neox/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="33" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+
+
+#EXTINF:0 tvg-chno="34" tvg-id="Nova.es" tvg-shift="0" tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
+
+https://livestartover.atresmedia.com/nova/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="35" tvg-id="Divinity.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Divinity.jpg",Divinity
+
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+
+
+#EXTINF:0 tvg-chno="36" tvg-name="MEGA" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
+
+https://livestartover.atresmedia.com/mega/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="37" tvg-name="Be Mad" tvg-id="BeMad.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
+
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+
+
+#EXTINF:0 tvg-chno="40" tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
+
+http://clan.m3u8
+
+
+
+#EXTINF:0 tvg-chno="41" tvg-name="Boing" tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
+
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+
+
+#EXTINF:0 tvg-chno="50" tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
+
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+
+
+
+#EXTINF:0 tvg-chno="51" tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Gol.jpg",Gol
+
+http://gol.m3u8
+
+
+
+#EXTINF:0 tvg-chno="52" tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg" ,Real Madrid TV
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+
+
+#EXTINF:0 tvg-chno="60" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
+
+http://hola.m3u8
+
+
+
+#EXTINF:0 tvg-chno="61" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,Fashion TV
+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+
+
+
+#EXTINF:0 tvg-chno="62" tvg-name="" tvg-id="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,HD Fashion Lifestyle
+
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
+
+#EXTINF:0 tvg-chno="500" tvg-name="" tvg-id="",Radio Nacional
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="503" tvg-name="" tvg-id="",Radio Tres
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="505" tvg-name="" tvg-id="",Radio Cinco
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="506" tvg-name="" tvg-id="",Radio Clásica
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="507" tvg-name="" tvg-id="",Radio Exterior
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="510" tvg-name="" tvg-id="",Radio Galega
+
+http://195.10.10.206/radiogalega/live.mp3
+
+
+
+#EXTINF:0 tvg-chno="520" tvg-name="" tvg-id="",Radio Voz
+
+http://live.radiovoz.es/mp3/stream_santiago.mp3
+
+
+
+#EXTINF:0 tvg-chno="530" tvg-name="" tvg-id="",Onda Cero
+
+http://icecast-streaming.nice264.com/ondacero
+
+
+
+#EXTINF:0 tvg-chno="540" tvg-name="" tvg-id="",Cadena Ser
+
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+
+
+#EXTINF:0 tvg-chno="541" tvg-name="" tvg-id="",Cadena Ser Vigo
+
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+
+
+
+#EXTINF:0 tvg-chno="542" tvg-name="" tvg-id="",Cadena Ser Baixo Miño
+
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAIXOMINO.mp3
